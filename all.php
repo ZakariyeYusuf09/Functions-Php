@@ -1,8 +1,5 @@
 <?php
 echo "<h2 style='text-align: center;'>Name :Zakarie Yusuf Mohamud Class: BIT27B </h2>";
-// Write PHP program that calculates lowest common multiplier (LCM) of two 
-// positive integer numbers using a function (use 18 and 24 as default argument 
-// values).
 echo "<br><b>Question 1 </b>Lowest Common Multiplier(LCM).<br>";
 function calculateLCM($a, $b)
 {
