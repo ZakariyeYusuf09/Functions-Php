@@ -1,6 +1,4 @@
 <?php
-
-echo "<h2 style='text-align: center;'>Name :Zakarie Yusuf Mohamud Class: BIT27B </h2>";
 echo "<br><b>Question 1 </b>Lowest Common Multiplier(LCM).<br>";
 function calculateLCM($a, $b)
 {
